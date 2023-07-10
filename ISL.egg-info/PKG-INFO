@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ISL
+Version: 0.0.0
+Summary: This is my repo to reproduce examples in ISL
+Maintainer: abkoesdw
+Maintainer-email: ariefbarkah@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# Intro
+
+This is my attempt to reproduce examples presented in the _Introduction to Statistical Learning_<sup>1</sup> book
+
+## Reference
+
+1. James, Gareth, et al. An introduction to statistical learning. Vol. 112. New York: springer, 2013

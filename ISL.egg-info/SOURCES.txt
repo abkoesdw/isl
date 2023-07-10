@@ -1,0 +1,7 @@
+README.md
+setup.py
+ISL.egg-info/PKG-INFO
+ISL.egg-info/SOURCES.txt
+ISL.egg-info/dependency_links.txt
+ISL.egg-info/requires.txt
+ISL.egg-info/top_level.txt
