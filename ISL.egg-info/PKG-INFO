@@ -4,7 +4,7 @@ Version: 0.0.0
 Summary: This is my repo to reproduce examples in ISL
 Maintainer: abkoesdw
 Maintainer-email: ariefbarkah@gmail.com
-Requires-Python: >=3.8
+Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 Provides-Extra: dev
 

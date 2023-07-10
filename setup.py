@@ -21,8 +21,16 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pandas==2.0.3",
+        "ipython==8.14.0",
+        "ipykernel==6.24.0",
     ],
-    extras_require={"dev": ["black==23.3.0"]},
+    extras_require={
+        "dev": [
+            "black==23.3.0",
+            "flake8==6.0.0",
+            "isort==5.12.0",
+        ]
+    },
     license="",
-    python_requires=">=3.8",
+    python_requires=">=3.11",
 )
